@@ -1,0 +1,28 @@
+Theory Assignment #1
+Database Systems
+
+(Use A4 sheets, leave one margin each side, times roman font and 1.5 spacing. Write the name and roll number and class) 
+
+As you know, prior to  relational model, database was modeled using  Hierarchical and Network models. Read the details of these models  from  the web (some references are given as below).
+
+Using 100 sentences each,  briefly explain the concepts for each model (Hierarchical, network and relational). No diagrams.
+
+Consider ER model of two entities  EMPLOYEE and PROJECT related through  WORKS_ON relationship type. The corresponding  relational database schema/instance  of EMPLOYEE, PROJECT and WORKS_ON relations is given (Figure 5.6 of Shyam Navathe et al DBMS book, fifth edition).
+
+Try to show how the information on these three tables can be shown under  Hierarchical and Network models. 
+
+Now, write about the merits  and demerits  of each model (network, hierarchical and relational model) by considering different advantages of DBMS such as data independence, efficient query processing,  and ease of application development. 
+
+You can follow the references given below. However, the list is not exhaustive. You are supposed to gather other related references from the Web and prepare the report.
+ 
+1. http://people.cs.pitt.edu/~chang/156/14hier.html
+
+2. http://people.cs.pitt.edu/~chang/156/18network.html
+
+3. http://codex.cs.yale.edu/avi/db-book/db6/appendices-dir/e.pdf
+
+4.https://coronet.iicm.tugraz.at/wbtmaster/allcoursescontent/netlib/ndm1.htm 
+
+5. http://ecomputernotes.com/fundamental/what-is-a-database/network-model 
+
+6. http://infolab.stanford.edu/~ullman/focs/ch08.pdf
