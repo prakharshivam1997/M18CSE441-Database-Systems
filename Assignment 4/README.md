@@ -1,4 +1,5 @@
-# CSE441-Database-Systems-Assignment-4
+# M18 CSE441 Database Systems Assignment 4
+C++ code that performs Sort Merge Join (Efficient) and Hash join (Grace Hash join) on 2 relations R(Y,X) and S(Y,Z) where Y is the joining attribute
 
 #### Compilation
 To compile the code run the following command
